@@ -1,3 +1,8 @@
+/* 
+ This class "ArrayUtils" was created by Luke Mattfeld 
+for CSCD210 at Eastern Washington University
+ */
+
 package utils;
 
 import java.io.File;
